@@ -1,15 +1,18 @@
-.red {
-    color: red;
+.tipo1 {
+    color: black;
+    font-size: 30px;
 }
 
-h1{
-    color: blue;
+.nombre{
+    color: cornflowerblue;
+    font-size: large;
 }
 
-p{
-    font-size: 10px;
+.informacion{
+    font-size: 15px;
+    color:black;
 }
 
 button {
-    background-color: coral;
+    background-color:grey;
 }
